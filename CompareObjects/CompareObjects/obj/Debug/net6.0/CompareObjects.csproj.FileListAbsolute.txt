@@ -1,0 +1,11 @@
+C:\Webfolder\RPMFrieght\MyCollection\CompareObjects\CompareObjects\CompareObjects\bin\Debug\net6.0\CompareObjects.deps.json
+C:\Webfolder\RPMFrieght\MyCollection\CompareObjects\CompareObjects\CompareObjects\bin\Debug\net6.0\CompareObjects.dll
+C:\Webfolder\RPMFrieght\MyCollection\CompareObjects\CompareObjects\CompareObjects\bin\Debug\net6.0\CompareObjects.pdb
+C:\Webfolder\RPMFrieght\MyCollection\CompareObjects\CompareObjects\CompareObjects\obj\Debug\net6.0\CompareObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Webfolder\RPMFrieght\MyCollection\CompareObjects\CompareObjects\CompareObjects\obj\Debug\net6.0\CompareObjects.AssemblyInfoInputs.cache
+C:\Webfolder\RPMFrieght\MyCollection\CompareObjects\CompareObjects\CompareObjects\obj\Debug\net6.0\CompareObjects.AssemblyInfo.cs
+C:\Webfolder\RPMFrieght\MyCollection\CompareObjects\CompareObjects\CompareObjects\obj\Debug\net6.0\CompareObjects.csproj.CoreCompileInputs.cache
+C:\Webfolder\RPMFrieght\MyCollection\CompareObjects\CompareObjects\CompareObjects\obj\Debug\net6.0\CompareObjects.dll
+C:\Webfolder\RPMFrieght\MyCollection\CompareObjects\CompareObjects\CompareObjects\obj\Debug\net6.0\refint\CompareObjects.dll
+C:\Webfolder\RPMFrieght\MyCollection\CompareObjects\CompareObjects\CompareObjects\obj\Debug\net6.0\CompareObjects.pdb
+C:\Webfolder\RPMFrieght\MyCollection\CompareObjects\CompareObjects\CompareObjects\obj\Debug\net6.0\ref\CompareObjects.dll
